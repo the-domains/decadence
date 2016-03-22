@@ -1,6 +1,6 @@
 name: Decadence
 favicon: null
-layout_spectrum: 0.24396
+layout_spectrum: 0.25177
 typography_spectrum: 0
 title: Guilt-free self-indulgence
 cta:
@@ -22,7 +22,7 @@ color:
     - '#656565'
     - '#cacaca'
     - '#f2f2f2'
-  brandStrength: 0.125
+  brandStrength: 0.5
   lightness: 0.8125
   saturation: 0.8175826510414481
   rhythmicContrast: 0.5
